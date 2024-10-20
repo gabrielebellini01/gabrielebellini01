@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Gabriele, full-stack web developer and native Android developer 👨‍💻
+
 <!--
 **gabrielebellini01/gabrielebellini01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
